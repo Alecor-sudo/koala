@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>alccor</title>
   <subtitle>继续保持求知之心！</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/alccor.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://alccor.github.io/koala.github.io/"/>
   <updated>2017-03-16T02:21:09.246Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://alccor.github.io/koala.github.io/</id>
   
   <author>
     <name>alccor</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/03/16/hello-world/"/>
-    <id>http://yoursite.com/2017/03/16/hello-world/</id>
+    <link href="https://alccor.github.io/koala.github.io/2017/03/16/hello-world/"/>
+    <id>https://alccor.github.io/koala.github.io/2017/03/16/hello-world/</id>
     <published>2017-03-16T02:21:09.230Z</published>
     <updated>2017-03-16T02:21:09.246Z</updated>
     
