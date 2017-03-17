@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>alccor</title>
   <subtitle>继续保持求知之心！</subtitle>
-  <link href="/alccor.github.io/atom.xml" rel="self"/>
+  <link href="/koala.github.io/atom.xml" rel="self"/>
   
   <link href="https://alccor.github.io/koala.github.io/"/>
   <updated>2017-03-16T02:21:09.246Z</updated>
