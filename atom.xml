@@ -5,7 +5,7 @@
   <link href="/koala/atom.xml" rel="self"/>
   
   <link href="https://alccor.github.io/koala.github.io/"/>
-  <updated>2017-03-16T02:21:09.246Z</updated>
+  <updated>2017-04-04T12:31:25.250Z</updated>
   <id>https://alccor.github.io/koala.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://alccor.github.io/koala.github.io/2017/04/04/%E7%AC%AC%E4%B8%80%E7%AF%87hexo%E6%96%87%E7%AB%A0/"/>
+    <id>https://alccor.github.io/koala.github.io/2017/04/04/第一篇hexo文章/</id>
+    <published>2017-04-04T12:35:43.265Z</published>
+    <updated>2017-04-04T12:31:25.250Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello World!&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
